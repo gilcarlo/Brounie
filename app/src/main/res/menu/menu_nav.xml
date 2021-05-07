@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/covid"
+        android:title="Post Covid"
+        android:icon="@drawable/ic_postcovid"/>
+
+    <item
+        android:id="@+id/clases"
+        android:title="Clases"
+        android:icon="@drawable/ic_play"/>
+
+    <item
+        android:id="@+id/nutricion"
+        android:title="Nutricion"
+        android:icon="@drawable/ic_baseline_fastfood_24"/>
+
+    <item
+        android:id="@+id/disenos"
+        android:title="Diseños"
+        android:icon="@drawable/ic_people"/>
+
+</menu>
